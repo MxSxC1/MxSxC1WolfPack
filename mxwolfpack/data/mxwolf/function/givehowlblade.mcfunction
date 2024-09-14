@@ -1,0 +1,4 @@
+title @p times 20 100 20
+title @p subtitle {"text":"You Have The Howling Blade","bold":true,"color":"gold"}
+title @p title {"text":"Howling Blade","bold":true,"color":"gold"}
+give @p netherite_sword[minecraft:attribute_modifiers=[{id:"minecraft:generic.armor",type:"generic.armor",amount:1.2,operation:"add_value",slot:"mainhand"},{id:"generic.attack_speed",type:"generic.attack_speed",amount:0.5,operation:"add_value",slot:"mainhand"}],custom_name='{"text":"Howling Blade","obfuscated":false,color=gold,"bold":true}', item_name="howlblade",custom_data={"howlblade":1},enchantments={levels: {"sharpness": 12,"smite":5,"looting":3,"unbreaking":20,"sweeping_edge":3}},lore=['[{"text":"Howling Blade","italic":false}]','[{"text":"New Moon","italic":false}]','[{"text":"The Dark Is A Cold Lonely Shadow ","italic":true}]','[{"text":"MxSxC1","italic":false}]']]
